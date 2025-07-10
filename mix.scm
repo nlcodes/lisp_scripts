@@ -1,3 +1,3 @@
 #!/usr/bin/env gsi
 
-(shell-command "pavucontrol")
+(shell-command "ps aux | grep ffplay")
